@@ -5,4 +5,4 @@ whether he is happy or not.
 Model is trained using TensorFlow Docker container and saved as model.h5 file
 1. Run parentCode.py to train the model and save it to model.h5 file
 2. Run the model.py file to get prediction of survey taker
-
+if predicted value is more than 0.5 then survey taker is happy about the company 
